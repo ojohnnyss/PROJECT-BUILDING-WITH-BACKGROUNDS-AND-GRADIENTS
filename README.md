@@ -1,2 +1,2 @@
-# PROJECT-BUILDING-WITH-BACKGROUNDS-AND-GRADIENTS
+#Building with backgrounds and gradients
 Fourth project of microverse's html, css course
