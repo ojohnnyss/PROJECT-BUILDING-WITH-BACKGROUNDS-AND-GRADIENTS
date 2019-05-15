@@ -11,8 +11,9 @@
   top: 110px;
   z-index: 1;
   flex-flow: column;
+  justify-content: center;
   align-items: center;
-  margin: 0 30%;
+  
 }
 
 .container{
@@ -21,7 +22,7 @@
   height: 36px;
   width: 936px;
   list-style-type: none;
-    
+  
 }
 
 .container li{
@@ -47,7 +48,7 @@
 
 .text{
   flex-flow: column;
-    
+  margin: 0 20%;
 }
 .text h1, h3, h4{
 	text-align: center;
